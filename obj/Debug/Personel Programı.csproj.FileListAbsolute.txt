@@ -1,0 +1,17 @@
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\bin\Debug\Personel Programı.exe.config
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\bin\Debug\Personel Programı.exe
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\bin\Debug\Personel Programı.pdb
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel_Programı.Login.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel_Programı.PersonelForm.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel_Programı.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel Programı.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel Programı.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel Programı.exe
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel Programı.pdb
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel_Programı.Ayarlar.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel_Programı.PersonelEkleme.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel_Programı.CalismaSaatleri.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel_Programı.PersonelSorgulama.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel Programı.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel_Programı.KullanıcıForm.resources
+C:\Users\CASPER\Desktop\Ali Şişli\C#\Personel Programı\obj\Debug\Personel_Programı.AyarlarSifre.resources
